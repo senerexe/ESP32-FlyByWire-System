@@ -1,9 +1,9 @@
 # ESP32-FlyByWire-System
 Proje Adı: ESP32 Tabanlı Fly-By-Wire Uçuş Kontrol Sistemi
 Özet: Bu proje, modern jet uçaklarında kullanılan Fly-By-Wire teknolojisinin mikrodenetleyici tabanlı bir prototipidir. Pilotun joystick hareketleri ESP32 tarafından dijital veriye dönüştürülür, yazılımsal filtrelerden geçirilir ve servo motorlara iletilir. Aynı zamanda gerçek zamanlı uçuş verileri C# ile geliştirilen yer istasyonuna aktarılır.
+
 <img width="722" height="440" alt="Ekran görüntüsü 2026-04-07 190654" src="https://github.com/user-attachments/assets/d61361d6-e710-4ab1-9133-6aa17396dbcb" />
-<img width="698" height="468" alt="Ekran görüntüsü 2026-04-07 190729" src="https://github.com/user-attachments/assets/2cd3b2ee-6bac-4c8c-9f3d-58d86635c06c" />
-<img width="673" height="463" alt="Ekran görüntüsü 2026-04-07 190746" src="https://github.com/user-attachments/assets/772570ed-03e2-496a-ad2e-2c9f106c4a4a" />
+
 <img width="1332" height="690" alt="Ekran görüntüsü 2026-04-07 193523" src="https://github.com/user-attachments/assets/bd35cc8c-6a3c-43a0-83ea-ca374fabbd5c" />
 
 Öne Çıkan Özellikler:
@@ -15,6 +15,8 @@ Stall Koruma Sistemi: Kritik açılarda (Pitch > 150) buzzer ve LCD üzerinden g
 Telemetri: C# arayüzü üzerinden anlık veri takibi ve radar simülasyonu.
 
 Donanım Entegrasyonu: 16x2 LCD ekran ve aktif buzzer ile fiziksel geri bildirim.
+<img width="673" height="463" alt="Ekran görüntüsü 2026-04-07 190746" src="https://github.com/user-attachments/assets/772570ed-03e2-496a-ad2e-2c9f106c4a4a" />
+
 
 Bana Neler Kattı?
 
